@@ -1,4 +1,5 @@
 QUERYONE RESOLUSI
+- Kelompok belajar
 - Konsisten mepelajari data science
 - Melanjutkan projek web HMT
 - Butuh patner yang responsif
